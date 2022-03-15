@@ -1,0 +1,42 @@
+Curso: Programación Orientada a Objetos Java _ 150 hs
+Días: Lunes Miércoles Viernes 19:00 a 22:00 hs
+Profe: Carlos Ríos c.rios@bue.edu.ar
+GitHub: https://github.com/crios2020/ObjetosNoche
+Materiales: https://aulasvirtuales.bue.edu.ar/my/
+
+Software: JDK (Paquete de Software) JAVA DEVELOPMENT KIT
+
+Java no es un lenguaje ni es de Oracle, es una especificación. Es más que un lenguajee
+Compilar: crear un ejecutable
+Java tiene la ventaja que cuando se compila en una plataforma puede utilizarse en otras plataformas.
+Java es lenguaje libre pero el compilador es privativo (desde que lo compró Oracle). De todas formas
+se pueden encontrar compiladores libres para usarlo.
+
+Comunidad: JCP Java Community Process
+Es un consorcio formado por empresas (Oracle, IBM, RedHat, Amazon) que dictaminan cómo tiene que ser el lenguaje.
+Java es corporativo de por sí, no es para pequeñas empresas o emprendimientos.
+
+Opciones de Compiladores:
+JDK Oracle
+openjdk.java.net
+adoptopenjdk.net
+ 
+Versiones LTS (Long Time Support) -tiene soporte por 8 años-: 8, 11, 17 
+
+Editor Geany (no es un IDE) No tiene capacidad de revisar el código
+
+IDE (Integrated Development Environment): Lugar donde se escribe el código
+VSCode
+Eclipse
+STS (Spring Tool Suite)
+Netbeans
+IntelliJ -> es privativo
+
+
+
+
+
+
+
+
+
