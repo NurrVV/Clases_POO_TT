@@ -1,0 +1,11 @@
+Representar en UML y codificar las siguientes oraciones.
+
+- Un Auto Clásico se puede fabricar sin radio, después se puede agregar 1 radio.
+
+- Un Auto Nuevo siempre tiene radio y se puede cambiar de radio.
+
+- Una radio solo puede estar en un vehículo(Auto) a la vez.
+
+- Un (vehículo)Auto siempre tiene color marca modelo y precio.
+
+- Una Radio tiene Marca.

@@ -1,0 +1,13 @@
+Modificador de Visibilidad para miembros de clase (atributos o métodos)
+
+Modificador				Alcance
+
+default (Omitido)		El miembro de clase es visible desde la misma clase y desde clases del mismo paquete.
+
+public	 				El miembro de clase es visible desde la misma clase y desde clases de cualquier paquete.
+
+private 				El miembro de clase es visible solo desde la misma clase.
+
+protected 				El miembro de clase es visible desde la misma clase, desde de clases hijas 
+						y también desde clases(no hijas) del mismo paquete.	
+
